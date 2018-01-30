@@ -1,0 +1,10 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Jan 30 23:38:42 CET 2018
+Stories/TableFilter.story=1000
+Stories/SingleInputField.story=2000
+threads=1
+total=13000
+Stories/JQueryDropdown.story=4000
+Stories/TableSearch.story=1000
+Stories/InputFormDemo.story=5000
+threadAverage=13000
